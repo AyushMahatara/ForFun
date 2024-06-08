@@ -41,6 +41,5 @@ input[type="submit"] {
 }
 
 #yes {
-  background-color: rgb(127, 220, 34);
-  color: white;
+  background-color: rgb(red, green, blue);
 }

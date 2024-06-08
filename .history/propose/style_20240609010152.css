@@ -36,11 +36,6 @@ input[type="submit"] {
 }
 
 #no {
-  background-color: rgb(254, 64, 64);
-  color: white;
-}
-
-#yes {
-  background-color: rgb(127, 220, 34);
+  background-color: red;
   color: white;
 }
