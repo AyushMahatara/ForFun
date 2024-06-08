@@ -1,7 +1,0 @@
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: url("https://media.istockphoto.com/id/172906811/photo/holding-hands.jpg?s=612x612&w=0&k=20&c=kf8yO1DwVNqfQWF9WzQue5acHnXUgoxfP8sb8BhLr2w=")
-    center / cover no-repeat fixed;
-}
