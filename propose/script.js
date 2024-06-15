@@ -2,7 +2,7 @@ const yesButton = document.getElementById("yes");
 const noButton = document.getElementById("no");
 const swp = document.querySelector(".buttons");
 
- yesbutton.addEventListener("click", function() {
+ yesButton.addEventListener("click", function() {
         console.log("Button clicked!");
     });
 
